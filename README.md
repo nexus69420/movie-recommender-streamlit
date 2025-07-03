@@ -1,5 +1,9 @@
 #  Movie Recommendation System (Hybrid: Content + Collaborative)
 
+## Demo
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1BfIsC60jOq1tUTi3FPx01rw1rq-kRD6l/view?usp=sharing)
+
 This project is a movie recommender system that suggests movies based on both:
 - **What the movie is about** (using text-based content)
 - **What users with similar preferences liked** (using user ratings)
