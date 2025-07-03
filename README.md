@@ -8,7 +8,7 @@ It uses TMDB and MovieLens data to deliver more accurate and personalized movie 
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Content-based filtering using movie overview, genres, cast, keywords, and director
 - Collaborative filtering using user ratings (SVD model from Surprise)
